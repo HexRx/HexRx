@@ -12,3 +12,6 @@
 #### Libraries / Plugins
 - [`simple-ftp-deploy`](https://github.com/HexRx/simple-ftp-deploy) - the package for Sublime Text 3 to auto-upload files to FTP server when you save it locally.
 - [`ds3231_driver`](https://github.com/HexRx/ds3231_driver) - cross-platform HAL driver for DS3231 real-time clock.
+
+#### Other
+- [`nokia_bl5c_battery_holder`](https://github.com/HexRx/nokia_bl5c_battery_holder) - a simple Nokia BL-5C battery holder model created in FreeCAD for 3D printing.
