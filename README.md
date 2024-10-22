@@ -15,3 +15,4 @@
 
 #### Other
 - [`nokia_bl5c_battery_holder`](https://github.com/HexRx/nokia_bl5c_battery_holder) - a simple Nokia BL-5C battery holder model created in FreeCAD for 3D printing.
+- [`mcufont-converter-web`](https://github.com/HexRx/mcufont-converter-web) - online font converter for mcufont rendering library.
